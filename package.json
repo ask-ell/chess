@@ -1,5 +1,5 @@
 {
-  "name": "chess-memo",
+  "name": "@ask-ell/chess-memo",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
